@@ -1,6 +1,7 @@
 # Tasker CLI
 
 A simple command-line interface (CLI) for managing tasks, written in Python.
+Based on the [roadmap tasker-cli](https://roadmap.sh/projects/task-tracker)
 
 ## Stack
 
